@@ -5,6 +5,7 @@ function App() {
         <div className='app'>
             <h1>Task Tracker made by Vlad Bolofinov</h1>
             <AppInput/>
+            <AppInput/>
         </div>
     )
 }
