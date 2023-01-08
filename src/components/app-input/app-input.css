@@ -1,0 +1,29 @@
+.wrapper-input {
+    background-color: #FFD700;
+    padding: 30px 0px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    margin: 25px 450px;
+    border-radius: 5%;
+    border-color: #e5383b;
+}
+
+.app-input {
+    display: block;
+    width: 750px;
+    height: 25px;
+    margin: 0 auto;
+    border-radius: 1%;
+}
+
+.app-input::-webkit-input-placeholder {
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+}
